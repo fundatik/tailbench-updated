@@ -1,0 +1,14 @@
+/home/cc/tailbench-v0.9/moses/jam-files/sanity.jam:158: in boost
+*** argument error
+* rule constant ( name : value + )
+* called with: ( BOOST-VERSION :  )
+* missing argument value
+/home/cc/tailbench-v0.9/moses/jam-files/boost-build/build/project.jam:1006:see definition of rule 'constant' being called
+Jamroot:75: in modules.load
+/home/cc/tailbench-v0.9/moses/jam-files/boost-build/build/project.jam:317: in load-jamfile
+/home/cc/tailbench-v0.9/moses/jam-files/boost-build/build/project.jam:62: in load
+/home/cc/tailbench-v0.9/moses/jam-files/boost-build/build/project.jam:168: in project.find
+/home/cc/tailbench-v0.9/moses/jam-files/boost-build/build-system.jam:570: in load
+./jam-files/boost-build/kernel/modules.jam:283: in import
+./jam-files/boost-build/kernel/bootstrap.jam:142: in boost-build
+./jam-files/boost-build/boost-build.jam:8: in module scope

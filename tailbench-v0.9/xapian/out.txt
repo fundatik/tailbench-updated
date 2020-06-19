@@ -1,0 +1,615 @@
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = ERROR! recvd = 162, expected = 1953722184
+[CLIENT] recv() failed : Connection reset by peer
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45016 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45032 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45048 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45064 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45080 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45096 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45112 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45128 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45144 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45160 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45176 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45192 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45208 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45224 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45240 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45381 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45523 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45540 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45557 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45574 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45597 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45614 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45631 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45648 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45665 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45682 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 45700 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 46025 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 46044 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 27: 46063 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removingsftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = [CLIENT] recv() failed : Success
+./fz_server.sh: line 24: unexpected EOF while looking for matching `"'
+./fz_server.sh: line 45: syntax error: unexpected end of file
+TBENCH_SERVER = bind() failed: Address already in use

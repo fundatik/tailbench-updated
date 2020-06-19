@@ -1,0 +1,3 @@
+cd /home/cc/tailbench-v0.9/xapian
+get lats.bin
+exit

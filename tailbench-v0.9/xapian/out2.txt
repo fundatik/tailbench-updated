@@ -1,0 +1,1485 @@
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+./kill_networked.sh: line 3: kill: (48268) - No such process
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48496 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48514 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48543 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48569 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48587 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48605 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48628 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48661 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48681 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48699 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48718 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48736 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48754 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48772 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48791 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48955 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48975 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 48994 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 49013 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 49032 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 49051 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 49070 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 49089 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 49108 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 49127 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28: 49146 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28:   363 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28:   758 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28:   779 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28:   800 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28:   822 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removingcat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Client left, removingConnection reset by peer
+
+All clients exited. Server finishing
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28:  1660 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Client left, removing
+All clients exited. Server finishing
+Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removingsend() failed: 
+All clients exited. Server finishing
+Connection reset by peer
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Client left, removing
+Connection reset by peer
+All clients exited. Server finishing
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28:  2699 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = send() failed: Client left, removingConnection reset by peer
+All clients exited. Server finishing
+
+xapian_networked_server: tbench_server_networked.cpp:255: virtual void NetworkedServer::sendResp(int, const void*, size_t): Assertion `sent == totalLen' failed.
+./fz_server.sh: line 28:  2731 Aborted                 (core dumped) TBENCH_MAXREQS=${REQUESTS} TBENCH_WARMUPREQS=${WARMUPREQS} taskset -c ${CORES} ./xapian_networked_server -n ${NSERVERS} -d ${DATA_ROOT}/xapian/wiki -r 1000000000
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
+TBENCH_SERVER = TBENCH_CLIENT_THREADS = Client left, removing
+All clients exited. Server finishing
+cat: server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+cat: client.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: cannot remove 'server.pid': No such file or directory
+rm: cannot remove 'client.pid': No such file or directory
+sftp> cd /home/cc/tailbench-v0.9/xapian
+sftp> get lats.bin
+sftp> exit
